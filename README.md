@@ -1,0 +1,4 @@
+basic
+=====
+
+The basic algorithm
